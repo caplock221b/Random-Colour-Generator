@@ -1,0 +1,22 @@
+#div1, #div2, #div3, #div4{
+    height: 100vh;
+}
+h4{
+    margin-top: 45vh;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+#btn1, #btn2, #btn3, #btn4{
+    margin-left: 9.5vw;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px 8px;
+    outline: none;
+}
+#btn1:hover, #btn2:hover, #btn3:hover, #btn4:hover{
+    background-color: white;
+    box-shadow: 2px 2px 1px rgba(245, 245, 245, 0.836);
+}
